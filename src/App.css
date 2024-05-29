@@ -1,0 +1,6 @@
+.hero::-webkit-scrollbar{
+    width: 0px;
+}
+.hero::-webkit-scrollbar-thumb{
+   background-color: #FF0000;
+}
